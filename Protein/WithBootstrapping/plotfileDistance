@@ -1,0 +1,83 @@
+%!PS-Adobe-3.0
+%Test postscript
+%%Title: Phylip Tree Output
+%%Creator: Phylip Drawgram
+%%Pages: 1 1
+%%DocumentFonts: (atend)
+%%Orientation: Portrait
+%%DocumentMedia: Page 585 765 0 ( ) ( )
+%%BoundingBox: 46 61 539 704
+%%EndComments
+/l {newpath moveto lineto stroke} def
+%%EndProlog
+%%Page: 1 1
+<< /PageSize [ 585 765 ] >> setpagedevice 1 setlinecap 
+ 1 setlinejoin
+    5.12 setlinewidth newpath
+   46.80   257.22    58.61   257.22 l
+   58.61   257.22    58.61   345.18 l
+   58.61   345.18   103.51   345.18 l
+  103.51   345.18   103.51   435.81 l
+  103.51   435.81   148.40   435.81 l
+  148.40   435.81   148.40   531.77 l
+  148.40   531.77   193.29   531.77 l
+  193.29   531.77   193.29   595.74 l
+  193.29   595.74   238.19   595.74 l
+  193.29   531.77   193.29   467.80 l
+  193.29   467.80   238.19   467.80 l
+  238.19   467.80   238.19   510.45 l
+  238.19   510.45   283.08   510.45 l
+  238.19   467.80   238.19   425.15 l
+  238.19   425.15   283.08   425.15 l
+  148.40   435.81   148.40   339.85 l
+  148.40   339.85   193.29   339.85 l
+  103.51   345.18   103.51   254.55 l
+  103.51   254.55   148.40   254.55 l
+   58.61   257.22    58.61   169.26 l
+   58.61   169.26   103.51   169.26 l
+ stroke    1.71 setlinewidth 
+1 setlinecap 1 setlinejoin 
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+254.680067 586.600503 translate -0.000000 rotate
+0 0 moveto
+(P-CoV) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+299.573436 501.303103 translate -0.000000 rotate
+0 0 moveto
+(SARS-CoV-2) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+297.189747 415.058557 translate -0.000000 rotate
+0 0 moveto
+(RaTG13) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+202.635633 328.449137 translate -0.000000 rotate
+0 0 moveto
+(MERS-CoV) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+164.893330 245.410902 translate -0.000000 rotate
+0 0 moveto
+(SARS-CoV) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+117.616273 159.166356 translate -0.000000 rotate
+0 0 moveto
+(Bat-CoV) show
+grestore
+stroke     5.12 setlinewidth 
+ 1 setlinecap 1 setlinejoin 
+stroke showpage 
+
+%%PageTrailer
+%%PageFonts: Times-Roman
+%%Trailer
+%%DocumentFonts: Times-Roman

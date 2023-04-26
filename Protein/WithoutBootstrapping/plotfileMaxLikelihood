@@ -1,0 +1,81 @@
+%!PS-Adobe-3.0
+%Test postscript
+%%Title: Phylip Tree Output
+%%Creator: Phylip Drawgram
+%%Pages: 1 1
+%%DocumentFonts: (atend)
+%%Orientation: Portrait
+%%DocumentMedia: Page 585 765 0 ( ) ( )
+%%BoundingBox: 46 61 539 704
+%%EndComments
+/l {newpath moveto lineto stroke} def
+%%EndProlog
+%%Page: 1 1
+<< /PageSize [ 585 765 ] >> setpagedevice 1 setlinecap 
+ 1 setlinejoin
+    5.12 setlinewidth newpath
+   46.80   558.12    58.61   558.12 l
+   58.61   558.12    58.61   595.74 l
+   58.61   595.74    80.33   595.74 l
+   58.61   558.12    58.61   321.24 l
+   58.61   321.24    68.74   321.24 l
+   68.74   321.24    68.74   406.82 l
+   68.74   406.82    91.63   406.82 l
+   91.63   406.82    91.63   467.40 l
+   91.63   467.40    94.89   467.40 l
+   94.89   467.40    94.89   510.45 l
+   94.89   510.45    97.12   510.45 l
+   94.89   467.40    94.89   425.15 l
+   94.89   425.15    96.42   425.15 l
+   91.63   406.82    91.63   339.85 l
+   91.63   339.85    98.71   339.85 l
+   68.74   321.24    68.74   254.55 l
+   68.74   254.55    84.35   254.55 l
+   58.61   558.12    58.61   169.26 l
+   58.61   169.26   283.08   169.26 l
+ stroke    1.71 setlinewidth 
+1 setlinecap 1 setlinejoin 
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+94.438327 585.653358 translate -0.000000 rotate
+0 0 moveto
+(Bat-CoV) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+113.617280 501.303103 translate -0.000000 rotate
+0 0 moveto
+(SARS-CoV-2) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+110.525774 415.058557 translate -0.000000 rotate
+0 0 moveto
+(RaTG13) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+115.198223 330.708302 translate -0.000000 rotate
+0 0 moveto
+(P-CoV) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+100.838994 245.410902 translate -0.000000 rotate
+0 0 moveto
+(SARS-CoV) show
+grestore
+gsave
+/Times-Roman findfont 42.949346 scalefont setfont
+292.422370 157.854336 translate -0.000000 rotate
+0 0 moveto
+(MERS-CoV) show
+grestore
+stroke     5.12 setlinewidth 
+ 1 setlinecap 1 setlinejoin 
+stroke showpage 
+
+%%PageTrailer
+%%PageFonts: Times-Roman
+%%Trailer
+%%DocumentFonts: Times-Roman
